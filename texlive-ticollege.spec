@@ -1,6 +1,6 @@
 Name:		texlive-ticollege
 Version:	36306
-Release:	1
+Release:	2
 Summary:	Graphical representation of keys on a standard scientific calculator
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ticollege
