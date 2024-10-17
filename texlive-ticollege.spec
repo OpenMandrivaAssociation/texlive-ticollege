@@ -3,7 +3,7 @@ Version:	36306
 Release:	2
 Summary:	Graphical representation of keys on a standard scientific calculator
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ticollege
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ticollege
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ticollege.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ticollege.doc.r%{version}.tar.xz
